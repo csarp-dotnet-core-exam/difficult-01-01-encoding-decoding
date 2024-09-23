@@ -3,6 +3,8 @@ A kódoláshoz a szóvéget sorfolytonosan adott számú oszlopba írjuk, majd a
 
 A titkosított szöveg: ”tazeszogeevtketilltkotaisnod”.  
 
+![Mintakódolás](https://github.com/csarp-dotnet-core-exam/difficult-01-01-encoding-decoding/blob/main/KodolasDekodolasProjekt/mintakodolas.jpg)
+
 Bemenet  
 A bemenet 
 - kódolásról vagy dekódolásról van szó.
